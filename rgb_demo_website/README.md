@@ -3,7 +3,7 @@ RGB Demo Website Installation
 
 Default addons for demo website
 
-Installs the default modules for a demo website.
+Installs the default demo website modules.
 
 Credits
 =======

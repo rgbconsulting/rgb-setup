@@ -1,9 +1,9 @@
 RGB Demo
 ========
 
-Default addons for a basic demo erp
+Default addons for demo erp
 
-Installs the default modules for a basic demo erp.
+Installs the default demo modules.
 
 Credits
 =======

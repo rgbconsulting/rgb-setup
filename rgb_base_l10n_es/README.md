@@ -3,7 +3,7 @@ RGB Base Spanish Localization
 
 Base Spanish localization modules
 
-Installs the base modules for spanish localization and accounting modules.
+Installs the base spanish localization and accounting modules.
 
 
 Credits

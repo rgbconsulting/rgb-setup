@@ -1,2 +1,3 @@
 # rgb-setup
-RGB Consulting addons for basic installation
+
+RGB modules to create a basic Odoo

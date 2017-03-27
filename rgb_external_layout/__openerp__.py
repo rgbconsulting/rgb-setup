@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 ##############################################################################
 #
-#   RGB Base Spanish Localization
-#   Copyright 2017 RGB Consulting, SL
+#   RGB External Layout
+#   Copyright 2016 RGB Consulting, SL
 #
 #   This program is free software: you can redistribute it and/or modify
 #   it under the terms of the GNU Affero General Public License as
@@ -19,39 +19,26 @@
 #
 ##############################################################################
 {
-    'name': 'RGB Base Spanish Localization',
-    'version': '8.0.1.0.0',
-    'depends': ['rgb_base_account',
-                #10n-spain
-                'account_balance_reporting_xls',
-                'l10n_es_partner_mercantil',
-                'l10n_es_toponyms',
-                'l10n_es',
-                'l10n_es_partner',
-                'l10n_es_account_balance_report',
-                'l10n_es_account_invoice_sequence',
-                'l10n_es_partner_mercantil',
-                'l10n_es_account_bank_statement_import_n43',
-                'l10n_es_fiscal_year_closing'],
+    'name': "RGB External Layout",
+    'version': '1.0',
+    'depends': ['report'],
     'license': 'AGPL-3',
     'author': "RGB Consulting SL",
     'website': "http://www.rgbconsulting.com",
-    'category': 'RGB',
-
-    'summary': 'Base Spanish localization modules',
-
+    'category': 'Reporting',
+    'summary': """Report External Layout""",
     'description': """
-RGB Base Spanish Localization Modules
-=====================================
+Report External Layout
+======================
+This module modifies the header and footer added in the report external layout.
 
-Installs the base spanish localization modules.
     """,
 
     'data': [
+        'views/layout_header.xml',
+        'views/layout_footer.xml',
     ],
 
     'demo': [
     ],
-    'installable': True,
-    'application': False,
 }

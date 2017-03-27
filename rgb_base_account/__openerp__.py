@@ -50,14 +50,14 @@
     'website': "http://www.rgbconsulting.com",
     'category': 'RGB',
 
-    'summary': 'Base Accounting',
+    'summary': 'Installs Accounting modules',
 
     'description': """
 RGB Base Accounting Modules
 ===========================
 
 
-Installs basic accounting modules.
+Installs accounting modules.
     """,
 
     'data': [

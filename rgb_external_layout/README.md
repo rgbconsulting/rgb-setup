@@ -1,10 +1,7 @@
-RGB Base Accounting
+RGB External Layout
 ===================
 
-Base Accounting
-
-
-Installs accounting modules.
+This module customizes the header and footer added in external layout report.
 
 
 Credits
