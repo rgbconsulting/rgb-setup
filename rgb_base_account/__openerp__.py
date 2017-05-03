@@ -44,6 +44,8 @@
                 'account_payment_term_extension',
                 #bank-statement-import
                 'base_bank_account_number_unique',
+                #rgb-accounting
+                'financial_manager_sequence_access',
                 ],
     'license': 'AGPL-3',
     'author': "RGB Consulting SL",
