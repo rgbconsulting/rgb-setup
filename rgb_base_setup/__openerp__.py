@@ -28,7 +28,7 @@
                 # server-tools
                 'admin_technical_features',
                 'mass_editing',
-                'password_security',
+                # 17-05-11 - optional : 'password_security',
                 'disable_openerp_online',
                 # web
                 'web_dialog_size',
