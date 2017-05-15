@@ -28,6 +28,7 @@
                 # server-tools
                 'admin_technical_features',
                 'mass_editing',
+                'base_import_security_group',
                 # 17-05-11 - optional : 'password_security',
                 'disable_openerp_online',
                 # web
