@@ -27,13 +27,13 @@
                 'document',
                 # server-tools
                 'mass_editing',
-                'password_security',
+                # 17-06-09 optional : 'password_security',
                 'disable_odoo_online',
                 'base_technical_features',
                 # web
                 'web_dialog_size',
                 'web_searchbar_full_width',
-                'web_export_view',
+                # 17-06-09 incompatible with responsive : 'web_export_view',
                 'web_hide_db_manager_link',
                 'web_sheet_full_width',
                 'web_responsive',
