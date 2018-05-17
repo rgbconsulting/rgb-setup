@@ -42,6 +42,7 @@
                 # partner-contact
                 'base_location_geonames_import',
                 #
+                'account_lock_date_update',
                 ],
     'license': 'AGPL-3',
     'author': "RGB Consulting SL",
