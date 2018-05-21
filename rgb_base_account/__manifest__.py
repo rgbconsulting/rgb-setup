@@ -29,6 +29,7 @@
                 'account_invoice_tax_required',
                 'account_move_line_payable_receivable_filter',
                 'account_move_line_tax_editable',
+		'account_lock_date_update',
                 # account-invoicing
                 'account_invoice_check_total',
                 'account_invoice_refund_link',
