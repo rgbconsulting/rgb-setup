@@ -2,7 +2,7 @@
 <openerp>
     <data>
         <template id="report_header_custom" inherit_id="report.external_layout_header">
-            <xpath expr="(//div[@class='col-xs-3'])" position="attributes">
+            <xpath expr="(//div[@class='col-xs-3'])[last()]" position="attributes">
                 <attribute name="class">col-xs-6</attribute>
             </xpath>
         </template>
